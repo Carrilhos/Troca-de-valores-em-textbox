@@ -1,0 +1,9 @@
+C:\Users\Pichau\source\repos\Estrutura sequencial\Estrutura sequencial\bin\Debug\Estrutura sequencial.exe.config
+C:\Users\Pichau\source\repos\Estrutura sequencial\Estrutura sequencial\bin\Debug\Estrutura sequencial.exe
+C:\Users\Pichau\source\repos\Estrutura sequencial\Estrutura sequencial\bin\Debug\Estrutura sequencial.pdb
+C:\Users\Pichau\source\repos\Estrutura sequencial\Estrutura sequencial\obj\Debug\Estrutura sequencial.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\Estrutura sequencial\Estrutura sequencial\obj\Debug\Estrutura_sequencial.frmTrocaDeValores.resources
+C:\Users\Pichau\source\repos\Estrutura sequencial\Estrutura sequencial\obj\Debug\Estrutura_sequencial.Properties.Resources.resources
+C:\Users\Pichau\source\repos\Estrutura sequencial\Estrutura sequencial\obj\Debug\Estrutura sequencial.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\Estrutura sequencial\Estrutura sequencial\obj\Debug\Estrutura sequencial.exe
+C:\Users\Pichau\source\repos\Estrutura sequencial\Estrutura sequencial\obj\Debug\Estrutura sequencial.pdb
